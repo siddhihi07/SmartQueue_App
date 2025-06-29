@@ -34,4 +34,20 @@ SmartQueue is an AI-powered triage system developed as part of a Machine Learnin
 - **Model Serialization**: joblib
 
 ---
+## Sample Patient Prediction
+You can generate a dummy patient in the app or manually input symptoms.
+The model predicts a risk score and maps it to a label:
 
+🟢 Low Risk
+
+🟡 Medium Risk
+
+🔴 High Risk
+
+---
+
+## Financial Forecast (from report)
+Revenue = (Monthly Fee × Hospitals) - Operating Costs
+
+Sample:
+Revenue = (100 × ₹1999) - ₹8000 = ₹1,91,900/month
